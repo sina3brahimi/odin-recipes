@@ -1,0 +1,24 @@
+body {
+    background-color: whitesmoke;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+    font-size: medium;
+
+}
+
+h1 {
+    background-color: cadetblue;
+    margin: 8px auto;
+    padding: 8px;
+    font-size: 28px;
+    text-align: center;
+}
+
+.recipe {
+    border: 2px solid dimgrey;
+    background-color: darkgrey;
+    padding: 8px;
+    text-align: center;
+    width:360px;
+    margin: 10px auto;
+    border-radius: 4px;
+}

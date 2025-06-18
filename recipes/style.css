@@ -1,0 +1,31 @@
+body {
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+    background-color: blanchedalmond;
+}
+
+h2 {
+    border: 8px;
+    background-color: lightgrey;
+    color: black;
+    padding: 8px;
+}
+
+img {
+    margin: 0 auto;
+    width: auto;
+    height: 400px;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+p.home {
+    border: 8px solid transparent;
+    border-radius: 4px;
+    background-color: rgb(210, 142, 32);
+    padding: 4px 8px;
+    margin: 10; 
+    display: block;
+    width:fit-content;
+}
